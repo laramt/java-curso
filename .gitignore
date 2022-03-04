@@ -1,7 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/.idea/
 
 
 # Compiled class file
@@ -9,6 +8,7 @@
 
 #  IntelliJ
 out/
+.idea/
 
 .idea_modules/
 *.iml
